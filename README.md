@@ -1,2 +1,2 @@
 # Bibio
-Some note of Bibiograph
+Some notes of Bibiography
